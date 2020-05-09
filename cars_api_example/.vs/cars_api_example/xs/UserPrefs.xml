@@ -1,4 +1,36 @@
 ﻿<Properties StartupConfiguration="{44FD41D0-8CEC-4A41-8780-299BD3E1605C}|Default">
-  <MonoDevelop.Ide.ItemProperties.cars__api__example FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="cars_api_example/Controllers/CarItemsController.cs">
+    <Files>
+      <File FileName="cars_api_example/Models/CarItem.cs" Line="15" Column="1" />
+      <File FileName="cars_api_example/Models/CarContext.cs" Line="11" Column="10" />
+      <File FileName="cars_api_example/Startup.cs" Line="25" Column="53" />
+      <File FileName="cars_api_example/Controllers/CarItemsController.cs" Line="70" Column="18" />
+      <File FileName="cars_api_example/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cars_api_example" expanded="True">
+            <Node name="cars_api_example" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CarItemsController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.cars__api__example PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

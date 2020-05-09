@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "1",
+    "Brand": "Mercedes-Benz",
+    "Color": "yellow",
+    "IsInStock": "True",
+    "Model": "C Class Coupe",
+    "Year": "2016"
+  },
+  {
+    "Id": "2",
+    "Brand": "Mercedes-Benz",
+    "Color": "blue",
+    "IsInStock": "False",
+    "Model": "CLS",
+    "Year": "-89"
+  }
+]
